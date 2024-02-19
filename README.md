@@ -1,2 +1,2 @@
-# diversity_sr
+# Collaboration Diversity
 Nature submission
